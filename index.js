@@ -1,4 +1,4 @@
 function shout(string)
 {
-  return string.Up
+  return string.toUpperCase();
 }
